@@ -1,6 +1,6 @@
 # Estruturas_de_Repeticao
 
-3 Questões de Estrutura de seleção resolvidas em C# para praticar os fundamentos da linguagem.
+19 Questões de Estrutura de repetição resolvidas em C# para praticar os fundamentos da linguagem.
 
 ##EXERCÍCIO 1
 
