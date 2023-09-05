@@ -48,3 +48,7 @@ alunos é desconhecido. Os dados de um aluno são: número de matrícula e a sua
 número de elementos deste conjunto não é conhecido, e que um número negativo será utilizado para sinalizar o 
 fim dos dados. 
 
+##EXERCÍCIO 10
+
+10. Faça um programa que conte de 1 até 100 e a cada múltiplo de 10 exiba uma mensagem: "Múltiplo de 10" . 
+
