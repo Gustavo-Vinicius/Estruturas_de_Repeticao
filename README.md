@@ -1,4 +1,4 @@
-# Estruturas_de_Repeticao
+# Estruturas_de_Repeticao .
 
 19 Questões de Estrutura de repetição resolvidas em C# para praticar os fundamentos da linguagem.
 
